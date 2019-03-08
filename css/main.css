@@ -1,6 +1,8 @@
 html {
   background-color: #000;
   font-family: "Bungee Inline", cursive;
+
+
 }
 
 .jo-container {
@@ -9,5 +11,5 @@ html {
 }
 
 .jo-long {
-
+  font-family: Forum, cursive;
 }
