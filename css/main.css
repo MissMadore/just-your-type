@@ -5,11 +5,15 @@ html {
 
 }
 
+.jopening {
+  font-family: "Playfair Display", serif;
+}
+
 .jo-container {
   color: #fff;
   text-align: center;
 }
 
 .jo-long {
-  font-family: Forum, cursive;
+  font-family: "Roboto Slab", serif;
 }
