@@ -1,14 +1,29 @@
 html {
-  background-color: #555;
+  background-color: #666;
   font-family: "Bungee Inline", cursive;
 }
 
+h1 {
+  color: #ccc;
+  text-align: center;
+}
+
 .jopening {
-  font-family: "Playfair Display", serif;
+  font-family: "Roboto Slab", serif;
+}
+
+.jopening:hover {
+  color: #B76B2C;
 }
 
 .jo-container {
   color: #fff;
+  text-align: center;
+  max-width: 40em;
+  margin: 0 auto;
+}
+
+.jo-trio {
   text-align: center;
 }
 
@@ -16,50 +31,54 @@ html {
   font-family: "Roboto Slab", serif;
 }
 
-.j-1 {
+.j-1:hover {
   color: #001;
 }
 
-.j-2 {
+.j-2:hover {
   color: #002;
 }
 
-.j-3 {
+.j-3:hover {
   color: #003;
 }
 
-.j-4 {
+.j-4:hover {
   color: #004;
 }
 
-.j-5 {
+.j-5:hover {
   color: #005;
 }
 
-.j-6 {
+.j-6:hover {
   color: #006;
 }
 
-.j-7 {
+.j-7:hover {
   color: #00a;
 }
 
-.j-8 {
+.j-8:hover {
   color: #00b;
 }
 
-.j-9 {
+.j-9:hover {
   color: #00c;
 }
 
-.j-10 {
+.j-10:hover {
   color: #00d;
 }
 
-.j-11 {
+.j-11:hover {
   color: #00e;
 }
 
-.j-12 {
+.j-12:hover {
   color: #00f;
+}
+
+.end:hover {
+  color: #ccc;
 }
