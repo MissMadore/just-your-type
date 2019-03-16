@@ -1,5 +1,5 @@
 html {
-  background-color: #000;
+  background-color: #555;
   font-family: "Bungee Inline", cursive;
 }
 
@@ -14,4 +14,16 @@ html {
 
 .jo-long {
   font-family: "Roboto Slab", serif;
+}
+
+.j-1 {
+  color: #001;
+}
+
+.j-2 {
+  color: #002;
+}
+
+.j-3 {
+  color: #003;
 }
